@@ -1,2 +1,3 @@
 # Lawal
-It contains all my stuffs
+I love HTML, CSS and JavaScript.
+Let talk about this
