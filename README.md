@@ -1,2 +1,2 @@
-# Lawal
-It contain my works
+Django project:-
+* Student Registration System
